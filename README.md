@@ -1,11 +1,10 @@
 
 # [Built Portfolio With GitHub ](https://github.com/asdomiq/github-portfolio)
 - [Sections](#sections-bookmark)
-- [Demo](#demo-movie_camera)
 - [Installation](#installation-arrow_down)
-- [Getting Started](#getting-started-dart)
+- [Pour commencer](#getting-started-dart)
 - [Usage](#usage-joystick)
-- [Packages Used](#packages-used-package)
+- [Packages utilisés](#packages-used-package)
 
 ---
 
